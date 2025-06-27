@@ -25,4 +25,4 @@ The model predicts multiple water quality parameters such as:
     CL   
 
 **Model link:**  
-https://drive.google.com/file/d/1EZSrGq6haX206OLZE9YyHrzLQICwMMas/view?usp=drive_link
+https://drive.google.com/file/d/1EZSrGq6haX206OLZE9YyHrzLQICwMMas/view?usp=drive_link 
