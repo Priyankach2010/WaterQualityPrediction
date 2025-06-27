@@ -24,4 +24,5 @@ The model predicts multiple water quality parameters such as:
     O2, NO3, NO2, SO4, PO4 and  
     CL   
 
-**Model link:**
+**Model link:**  
+https://drive.google.com/file/d/1EZSrGq6haX206OLZE9YyHrzLQICwMMas/view?usp=drive_link
